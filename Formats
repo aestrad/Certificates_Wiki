@@ -1,0 +1,7 @@
+
+# Formats
+
+* PFX Common certificate format for Windows Servers. 
+   ** It will contain the certificated and private key. And If applicable, intermediate certificates. 
+   ** *.pfx or *.p12 file extension
+    
